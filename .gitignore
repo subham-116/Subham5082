@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+terraform.tfvars
+
+# Docker
+*.log
+
+# VS Code
+.vscode/
+
+# System
+.DS_Store
+Thumbs.db
